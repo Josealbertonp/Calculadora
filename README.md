@@ -29,7 +29,7 @@ Este é um projeto de uma **Calculadora Básica** desenvolvida em **Java** utili
 
 ### Clone o repositório para o seu ambiente local:
 
-    git clone https://github.com/seu-usuario/calculadora-java.git
+    git clone https://github.com/Josealbertonp/Calculadora.git
 
 ### Abra o projeto no NetBeans:
 - Abra o NetBeans.
